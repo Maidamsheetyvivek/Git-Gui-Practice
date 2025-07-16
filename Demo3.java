@@ -4,5 +4,6 @@ public class EcommerceLogin {
 		System.out.println("UserName");
 		System.out.println("Password");
 		System.out.println("Click on Submit button");
+		System.out.println("Completed");
 		
 	}
